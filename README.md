@@ -5,8 +5,6 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 ---
 
-## 🚀 About Me
-
 💡 Tech and innovation enthusiast with a love for building things that matter.
 
 - 👨‍💻 Experience in **front-end** & **back-end** development  
