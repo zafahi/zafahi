@@ -7,13 +7,9 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 # 💫 About Me:
 
-🚀 Eager to grow by learning through mistakes, feedback, and real coding practice.  
-💡 Passionate about learning new technologies and building practical projects.  
-📘 Motivated to explore real-world challenges and keep improving through hands-on experience.
-
----
-
-💡 Tech and innovation enthusiast with a love for building things that matter.
+🚀 Eager to grow by learning through mistakes, feedback, and real coding practice  
+💡 Passionate about technology and eager to learn by building real-world, practical projects  
+📘 Motivated to explore real-world challenges and continuously improve through hands-on experience
 
 - 👨‍💻 Exploring front-end and back-end development through personal projects  
 - 🛠️ Familiar with C, Python, and Java  
