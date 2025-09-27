@@ -35,8 +35,8 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](#) https://www.linkedin.com/in/zacky-ahmad-firhansyah-2455b6340/
-- 📧 Email: zackyfirhansyah@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username)  
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
