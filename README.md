@@ -1,4 +1,5 @@
 Hi, I'm **Zacky Ahmad Firhansyah** 👋  
+---
 🎓 A **Computer Science student** from **Bina Nusantara University**, Indonesia  
 🌱 Aspiring Full Stack Developer | Cloud Computing Learner  
 
