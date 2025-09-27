@@ -34,6 +34,8 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 ## 🏆 Achievements
 - Participant and Honorable Mention, ICPC 2024 Asia Jakarta - Indonesia
 
+---
+
 ## 🌐 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacky-ahmad-firhansyah-2455b6340/)  
