@@ -1,17 +1,24 @@
-# 💫 About Me:
 Hi, I'm **Zacky Ahmad Firhansyah** 👋  
-🎓 **Computer Science Student at Bina Nusantara University**  
-🌱 **Aspiring Full Stack Developer & Cloud Enthusiast**
+🎓 A **Computer Science student** from **Bina Nusantara University**, Indonesia  
+🌱 Aspiring Full Stack Developer | Cloud Computing Learner  
+
+---
+
+# 💫 About Me:
+
+🚀 Eager to grow by learning through mistakes, feedback, and real coding practice.  
+💡 Passionate about learning new technologies and building practical projects.  
+📘 Motivated to explore real-world challenges and keep improving through hands-on experience.
 
 ---
 
 💡 Tech and innovation enthusiast with a love for building things that matter.
 
-- 👨‍💻 Experience in **front-end** & **back-end** development  
-- 🛠️ Skilled in **C**, **Python**, **Java**  
-- ☁️ Currently learning the ropes of **cloud computing (GCP)**  
-- 📱 Developed mobile apps using **Java** + **Android Studio**  
-- 🌐 Built responsive websites and connected them to the cloud  
+- 👨‍💻 Exploring front-end and back-end development through personal projects  
+- 🛠️ Familiar with C, Python, and Java  
+- ☁️ Currently learning cloud computing fundamentals (Google Cloud Platform)  
+- 📱 Developed beginner-friendly mobile apps using Java and Android Studio  
+- 🌐 Built responsive websites and experimented with cloud integrations
 
 ---
 
