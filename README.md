@@ -5,11 +5,11 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 ---
 
 ## 💫 About Me
-👋 Hi! I'm Zacky, a Computer Science student at Bina Nusantara University, Indonesia.
-🚀 My goal is to become a Full Stack Developer. Right now, I'm learning the basics of Cloud Computing using Google Cloud Platform (GCP).
-💡 I enjoy learning by building simple projects and exploring new tools and programming languages. I believe mistakes and feedback are essential for growth and improvement.
-👨‍💻 I have experience working with programming languages like C, Python, and Java. I've also built basic websites and mobile apps using HTML, CSS, JavaScript, and Android Studio.
-🌱 I'm always looking for opportunities to practice, build new things, and connect with others in the tech community.
+👋 Hi! I'm Zacky, a Computer Science student at Bina Nusantara University, Indonesia.  
+🚀 My goal is to become a Full Stack Developer. Right now, I'm learning the basics of Cloud Computing using Google Cloud Platform (GCP).  
+💡 I enjoy learning by building simple projects and exploring new tools and programming languages. I believe mistakes and feedback are essential for growth and improvement.  
+👨‍💻 I have experience working with programming languages like C, Python, and Java. I've also built basic websites and mobile apps using HTML, CSS, JavaScript, and Android Studio.  
+🌱 I'm always looking for opportunities to practice, build new things, and connect with others in the tech community.  
 
 ---
 
