@@ -19,12 +19,9 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
 | Languages               | Frameworks & Tools                                | Other                        |
 |-------------------------|---------------------------------------------------|-------------------------------|
 | C, Python, Java, JavaScript | HTML, CSS, React, Node.js, Android Studio, MySQL | Cloud (GCP), Full Stack Apps |
-
 
 ---
 
@@ -38,8 +35,8 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](#) <!-- Tambahkan URL LinkedIn kamu -->
-- 📧 Email: <!-- Tambahkan email kamu -->
+- [LinkedIn](#) https://www.linkedin.com/in/zacky-ahmad-firhansyah-2455b6340/
+- 📧 Email: zackyfirhansyah@gmail.com
 
 ---
 
