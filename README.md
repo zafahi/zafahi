@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm **Zacky Ahmad Firhansyah** 👋  
-🎓 **Student of Bina Nusantara University | Computer Science**  
+🎓 **Computer Science Student at Bina Nusantara University**  
 🌱 **Aspiring Full Stack Developer & Cloud Enthusiast**
 
 ---
