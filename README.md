@@ -1,9 +1,7 @@
-# Hi, I'm **Zacky Ahmad Firhansyah** 👋  
+Hi, I'm **Zacky Ahmad Firhansyah** 👋  
 ---
 🎓 A **Computer Science student** from **Bina Nusantara University**, Indonesia  
 🌱 Aspiring Full Stack Developer | Cloud Computing Learner  
-
-![Profile views](https://komarev.com/ghpvc/?username=zafahi&color=blue)
 
 ---
 
@@ -42,21 +40,6 @@
 
 ---
 
-## 🤝 Open to Opportunities
-I'm actively looking for:
-- Internship positions in software development or cloud computing
-- Collaboration on open-source or student projects
-- Learning and networking with fellow developers!
-
----
-
-## ⚡ Fun Facts
-- Suka belajar hal baru, terutama teknologi dan cloud computing
-- Gemar berkolaborasi dalam tim dan mengikuti hackathon
-- Hobi main game strategi dan membaca buku motivasi
-
----
-
 ## 🌐 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacky-ahmad-firhansyah-2455b6340/)  
@@ -82,3 +65,5 @@ I'm actively looking for:
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=zafahi&theme=tokyonight" alt="GitHub Trophies" />
 </p>
+
+---
