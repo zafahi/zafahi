@@ -31,6 +31,9 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 ---
 
+## 🏆 Achievements
+- Participant and Honorable Mention, ICPC 2024 Asia Jakarta - Indonesia
+
 ## 🌐 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacky-ahmad-firhansyah-2455b6340/)  
@@ -47,5 +50,3 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 ![](https://github-readme-stats.vercel.app/api?username=zafahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=zafahi&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zafahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
