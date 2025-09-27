@@ -1,29 +1,27 @@
 # Hi, I'm Zacky Ahmad Firhansyah 👋
 
-🎓 **Student of Bina Nusantara University Computer Science**  
+🎓 **Student of Bina Nusantara University | Computer Science**  
+🌱 **Aspiring Full Stack Developer & Cloud Enthusiast**
 
 ---
 
 ## 🚀 About Me
 
-- Passionate about technology and innovation
-- Experienced in both **front-end** and **back-end** development
-- Skilled in **C**, **Python**, **Java**
-- Building expertise in **cloud computing**
-- Enjoy working as a **full stack developer**:
-  - Developed mobile applications using **Java** and **Android Studio**
-  - Built responsive websites and connected them to cloud platforms
+💡 Tech and innovation enthusiast with a love for building things that matter.
+
+- 👨‍💻 Experience in **front-end** & **back-end** development
+- 🛠️ Skilled in **C**, **Python**, **Java**
+- ☁️ Currently learning the ropes of **cloud computing** (GCP)
+- 📱 Developed mobile apps using **Java** + **Android Studio**
+- 🌐 Built responsive websites and connected them to the cloud
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** C, Python, Java, JavaScript
-- **Front-End:** HTML, CSS, JavaScript, React
-- **Back-End:** Node.js
-- **Mobile Development:** Java with Android Studio
-- **Cloud:** Learning GCP
-- **Full Stack:** Application & website development, cloud integration
+| Languages         | Frameworks & Tools        | Other                |
+|-------------------|--------------------------|----------------------|
+| C, Python, Java, JavaScript | HTML, CSS, React, Node.js, Android Studio | Cloud (GCP), Full Stack Apps |
 
 ---
 
@@ -35,11 +33,9 @@
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
-- [LinkedIn](#)
-- Email:
+- [LinkedIn](#) <!-- Add your LinkedIn URL -->
+- 📧 Email: <!-- Add your email -->
 
 ---
-
-*Let’s connect and build something amazing together!*
