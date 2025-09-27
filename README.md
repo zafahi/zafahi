@@ -55,15 +55,15 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zacky Ahmad Firhansyah&show_icons=true&theme=tokyonight" alt="Zacky Ahmad Firhansyah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zafahi&show_icons=true&theme=tokyonight" alt="Zacky Ahmad Firhansyah's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zacky Ahmad Firhansyah&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafahi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zacky Ahmad Firhansyah&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zafahi&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 ---
