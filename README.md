@@ -1,6 +1,6 @@
 # Hi, I'm Zacky Ahmad Firhansyah 👋
 
-🎓 **University Student of Bina Nusantara University Computer Science**  
+🎓 **Student of Bina Nusantara University Computer Science**  
 
 ---
 
