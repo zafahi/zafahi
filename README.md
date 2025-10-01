@@ -23,9 +23,11 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 ## 📌 Projects
 
-- [Research-Method](https://github.com/zafahi/Research-Method)  
-- [Cloud-Introduction](https://github.com/zafahi/Cloud-Introduction)  
-- [Software-Engineer](https://github.com/zafahi/Software-Engineer)  
+- [Link Phising Checker Website](https://github.com/zafahi/Link-Phising-Checker)  
+- [E-Commerce Website](https://github.com/zafahi/E-commerce-Website)  
+- [Design Shirt Website](https://github.com/zafahi/Design-Shirt-Website)
+- [Simple Snake Game](https://github.com/zafahi/Simple-Snack-Game)
+- [Smartwatch Health Check Application](https://github.com/zafahi/SmartwatchHealthApp)  
 
 ---
 
