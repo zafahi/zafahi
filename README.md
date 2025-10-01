@@ -17,7 +17,7 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 | Languages               | Frameworks & Tools                                | Other                        |
 |-------------------------|---------------------------------------------------|-------------------------------|
-| C, Python, Java, JavaScript | HTML, CSS, React, Node.js, Android Studio, MySQL | Cloud (GCP), Full Stack Apps |
+| C, Python, Java, JavaScript, Kotlin | HTML, CSS, React, Node.js, Android Studio, MySQL | Cloud (GCP), Full Stack Apps |
 
 ---
 
