@@ -23,7 +23,7 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 ## 📌 Projects
 
-- [Link Phising Checker Website](https://github.com/zafahi/Link-Phising-Checker)  
+- [Link Phising Checker Website](https://github.com/zafahi/Link-Phishing-Checker)  
 - [E-Commerce Website](https://github.com/zafahi/E-commerce-Website)  
 - [Design Shirt Website](https://github.com/zafahi/Design-Shirt-Website)
 - [Simple Snake Game](https://github.com/zafahi/Simple-Snack-Game)
