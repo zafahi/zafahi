@@ -23,6 +23,7 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
 
 ## 📌 Projects
 
+- [Nebeng In Aja](https://github.com/zafahi/NebengInAja)
 - [Link Phising Checker Website](https://github.com/zafahi/Link-Phishing-Checker)  
 - [E-Commerce Website](https://github.com/zafahi/E-commerce-Website)  
 - [Design Shirt Website](https://github.com/zafahi/Design-Shirt-Website)
