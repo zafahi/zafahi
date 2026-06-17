@@ -52,8 +52,5 @@ Hi, I'm **Zacky Ahmad Firhansyah** 👋
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafahi&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=zafahi&theme=tokyonight" />
-</p>
 
 ---
